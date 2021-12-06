@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AbbyyAndroidHomeworkProject</string>
+
+    <string name="date">28.02.2017</string>
+    <string name="hzd_name">Horizon Zero Dawn</string>
+    <string name="hzd_description">Horizon Zero Dawn is an action role-playing game played from a third-person view.
+        Players take control of Aloy, a hunter who ventures through a post-apocalyptic land ruled by robotic creatures.
+        Aloy can kill enemies in a variety of ways – setting traps such as tripwires using the Tripcaster,
+        shooting them with arrows, using explosives, and a spear. Aloy wears a Focus, a small head piece that scans
+        machines to determine their susceptibilities, identify their location, their level, and the nature of loot
+        they will drop. Unless hacked with the Override Tool, or sufficiently hit with corruption arrows,
+        machines do not exert aggressive force against each other. Aloy also engages in battle with human enemies,
+        such as bandits and the Eclipse cult. </string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
