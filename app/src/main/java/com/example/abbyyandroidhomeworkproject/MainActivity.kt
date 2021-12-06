@@ -20,9 +20,9 @@ class MainActivity : AppCompatActivity() {
         val animator: Animator = AnimatorInflater.loadAnimator(this, R.animator.card_animation)
             .apply {
                 setTarget(card)
+                addListener({startActivity(intent)})
                 start()
             }
-        animator.addListener({startActivity(intent)})
 
     }
 }
